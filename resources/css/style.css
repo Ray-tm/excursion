@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: lightgray;
+}
+ .updateLink a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: lightgray;
+
+}
+p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+
+#copyright{
+    text-align: right;
+    color: gray;
+    font-size: 15px;
+}
+
+
