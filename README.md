@@ -1,3 +1,3 @@
 # excursion
-The excursion website
-website front exercise
+The excursion website.
+Small website front exercise
